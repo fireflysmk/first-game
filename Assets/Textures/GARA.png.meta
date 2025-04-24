@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e7cc3902b9927be46bdca53208147be2
+guid: 0c41a8309b864d444a3ef639b407b1bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6545285310226930424
-    second: cunduk_0
+      213: 8238947457459648981
+    second: GARA_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cunduk_0
+      name: GARA_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 624
-        height: 589
+        width: 1536
+        height: 648
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 805675250b97a25a0800000000000000
-      internalID: -6545285310226930424
+      spriteID: 5d97dfc8f0f965270800000000000000
+      internalID: 8238947457459648981
       vertices: []
       indices: 
       edges: []
